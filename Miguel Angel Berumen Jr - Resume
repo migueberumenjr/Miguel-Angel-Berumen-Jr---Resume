@@ -1,33 +1,41 @@
-Miguel Ángel Berumen, Jr.
-132 Bonita Avenue * Redwood City, CA 94061 * (916) 705-4589 * maberume@ucsc.edu
+Miguel Angel Berumen, Jr.
+
+132 Bonita Avenue ● Redwood City, CA 94061 ● (916) 705-4589 ● maberume@ucsc.edu
+Objective
+Committed student envisioning an internship in computer networks, software engineering, or information technology. I provide exceptional programming and computer networks skills and proficiency in information technology systems to contribute to the advancement of technology and its relationship with the flow and management of information.
+
 Education
-University of California, Santa Cruz	       Santa Cruz, CA	October 2014-Present
-B.S. in Computer Science, Expected June 2018
-Relevant coursework: F14-Intro to Computer Science Java, Multivariable Vector Calculus. W15-Computer Systems and Assembly Language, Discrete Mathematics, Intro to Computer Science Accelerated. S15-Intro to Data Structures, Mathematical Methods for Engineers I.
-Eastside College Preparatory School	   East Palo Alto, CA	August 2010-May 2014
-Honor Roll (2010-2013)
-Dean's List (2010, 2013)
+University of California, Santa Cruz	Santa Cruz, CA	10/14-Present
+Cumulative GPA: 3.55
+B.A. in Computer Science, Minor in Technology and Information Management Expected June 2018
+Relevant coursework: Advanced Computer Networks; Intro to Computer Networks; Open Source Programming; Database Systems II; Database Systems I; Algorithms and Abstract Data Types; Systems Analysis and Design; Data Programming for Visualization
+
+Programming Languages/Skills
+Advanced in Python, SQL, Ruby, Java
+Proficient in Linux, JavaScript, Git, Command Line, Microsoft Access
+Bais knowledge of C, C++, PHP, Excel
+Native fluency in English and Spanish
 
 Work Experience
-Canopy-Volunteer and Youth Staff	   Palo Alto, CA	December 2012-May 2014
-Prune trees (structural, aesthetic, clearance pruning) to prevent costly problems, such as overgrowth or future damage, during the summer
-Install over 300 new trees in the peninsula
-Install mulch and stakes for over 500 new and existing trees to provide them with nutrients to grow into healthy and strong trees, and to prevent weeds from sprouting during the winter
-Install DriWater for trees in planting areas with no irrigation
-Analyze the quality of the soil (dry, moist or over-saturated) in order to gauge future water allotment
-Install new stakes for existing and new trees for stability and protection
-Plan, organize and set up volunteer days on Saturdays and help prepare them to carry out the tasks listed above
-Help in the office by planning for major events, such as printing tree guides, surveys, and picking up supplies
-Awarded the Canopy Young Forester Award in January 2013, which is awarded to members of the Youth Staff and Interns for outstanding work and participation
+Cisco Systems, Inc.	San Jose, CA	06/20-09/09
+Network Engineer Intern - Global Service Logistics and Operations (Services)
+Developed a web page form with HTML, CSS, JavaScript and Bootstrap for TAC engineers to advise them in creating RMA incidents for clients based on a number of factors pertaining to replacement parts
+Wrote a Python script that emulates the VLOOKUP excel function to reduce the amount of time spent transferring data between 100+ excel files
+Created a Wiki using Google Sites that lists pictures and descriptions of parts from several product families (i.e. power cables) for easy part lookups
+Edited an existing Python script to extract last RMA (Return Merchandise Authorization) information for used/unused parts from Cisco’s parts database, and transfers the information into Excel workbooks for parts RMA obsolescence analysis
+Analyzed TAC (Technical Assistance Center) RMA cases to determine whether replacement parts were used and analyze why replacement parts were sent
+Residential Network (ResNet)	Santa Cruz, CA	09/15-Present
+Student Technical Support Specialist
+Utilize ServiceNow to document device repairs, communicate with clients and other departments on DMCA and malware incidents and other network issues
+Reinstall OSs, and reformat and repair computers (desktop and laptop), which includes removing viruses, malware, and spyware; repaired 100+computers so far
+Configure routers for campus network compliance; configured 300+ routers so far
+Network troubleshooting and software installation – in-office, in-house, and over the phone
+Communicate with upper level IT management for more complicated problems
+Identified and tested new process to configure difficult routers which decreased time spent configuring and increased amount of returned (configurable) routers. New process rolled out to all ResNet staff
 
-Scholarships and other Awards
-Eastside College Preparatory Scholarship	      	September 2014-Present
-AP Scholar with Distinction	September 2014
-American Mathematics Competition 12, 1st Place	May 2014
-Eastside AP Economics Award	May 2013
-
-Skills
-Native fluency in Spanish
-Basic knowledge of LC-3 assembly language and HTML 
-Proficient in C, Python, C++, Microsoft Excel
-Advanced in Java and Unix
+Coding Projects
+Comparing the Hottest Peppers	Santa Cruz, CA	04/16-06/16
+Utilized D3, Javascript, HTML and CSS to develop an interactive visualization  that compares dozens of the hottest peppers in the world
+Visualization incorporates a force-layout, zooming and panning, sliders, tabs, tooltips, and data binding
+Collaborated with two other students on this project
+Presented our final project to the class during finals week and received an A+ for the project and course
